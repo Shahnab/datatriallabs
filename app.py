@@ -17,8 +17,9 @@ app = MultiPage()
 # col1.image(display, width = 400)
 # col2.title("Machine Learning Trial Room App")
 
-st.image("https://pngfile.net/download/OwfxHu60MBfhycChCLA8PuMnK2xdI3P2jcLRNO5pRD4IpiIu5nqQXEf1IfsI2ErdKFcHM6bfqVy08Mklt7Np2Y7CX1sWhckEP7bQCpHILfI8VJMQ18QDT5UAcHRgoJ0FUHAiZFpH4mocU0QEqFyJzwlp4rIRNmBUIQb699lgnmFEBPvaf6oUCo2vGv1dvNTKkEoBGxPX/large", width= 150)
-st.title("ML Data Laboratory")
+#st.image("https://pngfile.net/download/OwfxHu60MBfhycChCLA8PuMnK2xdI3P2jcLRNO5pRD4IpiIu5nqQXEf1IfsI2ErdKFcHM6bfqVy08Mklt7Np2Y7CX1sWhckEP7bQCpHILfI8VJMQ18QDT5UAcHRgoJ0FUHAiZFpH4mocU0QEqFyJzwlp4rIRNmBUIQb699lgnmFEBPvaf6oUCo2vGv1dvNTKkEoBGxPX/large", width= 150)
+st.image('https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Dentsu-logo_black.svg/2560px-Dentsu-logo_black.svg.png', width=250)
+st.title("ML Data Trial Laboratory")
 
 
 # Add all your application here
